@@ -1,0 +1,16 @@
+.Product {
+    width: 1500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    /* To distribute cards evenly */
+}
+
+.pid:hover {
+    background-color: lightgrey;
+}
+
+.PCard:hover {
+    background-color: goldenrod;
+}
+

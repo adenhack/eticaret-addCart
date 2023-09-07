@@ -1,0 +1,16 @@
+.trth {
+    text-align: center;
+}
+
+.dng:hover {
+    background: red;
+
+}
+
+.trtd:hover {
+    background: lightgrey;
+}
+
+.trth:hover {
+    background: lightgoldenrodyellow;
+}
