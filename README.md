@@ -1,7 +1,11 @@
 microsoft visual code terminal:
 
 ```
-cd  api
+npm install react-scripts
+```
+
+```
+cd api
 ```
 
 ```
